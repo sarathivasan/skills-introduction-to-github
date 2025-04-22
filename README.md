@@ -50,8 +50,7 @@ In this exercise, you will:
    </a>
 
 > [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
-
+> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page. the bravest thing that I ever did was run, sometimes in the middle of the night i can see you again.
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
